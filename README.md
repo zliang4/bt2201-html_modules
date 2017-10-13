@@ -34,7 +34,7 @@ Below is today's task. You have to do this work in the 'modules.html' file. It c
 * Add information about all the modules you study this year to the html document. 
 * Module codes and titles should be headings.
 * Add very short module descriptions for each module. These should be paragraphs.
-* Give the page a meaning ful title
+* Give the page a meaningful title
 * Upload this file to your area on bimserver2.com
 
 Commit early, commit often - that way you can go back if you have made a mistake and I can see all the work you have done. There's no problem if you commit and there's a mistake in your file.  
